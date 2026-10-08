@@ -1,0 +1,11 @@
+{
+  "name": "mv-framework",
+  "version": "1.0.0",
+  "description": "A tiny Model/View framework with pub/sub data binding",
+  "main": "mv.js",
+  "scripts": {
+    "test": "node --test test/latticejs.test.js",
+    "coverage": "node --test --experimental-test-coverage test/latticejs.test.js"
+  },
+  "license": "MIT"
+}
